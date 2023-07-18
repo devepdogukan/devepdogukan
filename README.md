@@ -8,11 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devepdogukan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/C4D03AQEElj6_MS_Uzg/profile-displayphoto-shrink_200_200/0/1624475133676?e=1695254400&v=beta&t=9Nxrc3QFeMswZb8rr5YU894ybROxvST1fTSJby0X9mI"  />
 
 ###
+<h2 align="left">MY STACKS</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,6 +51,8 @@
 </div>
 
 ###
+
+<h2 align="left">CONTACT</h2>
 
 <div align="left">
   <a href="https://discordapp.com/users/430783612154019855" target="_blank">
